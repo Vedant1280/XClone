@@ -2,7 +2,7 @@
 
 XClone is a social networking application developed in March 2024, showcasing the potential of Firebase and Kotlin in Android app development. It offers a platform for users to connect, share thoughts, and engage with others in a dynamic online community.
 
-[Demo Video](https://drive.google.com/file/d/1f5jFpbQkSrAKKJ4gCPD6v8PpsqE_AMDl/view?usp=sharing)
+## [Demo Video](https://drive.google.com/file/d/1f5jFpbQkSrAKKJ4gCPD6v8PpsqE_AMDl/view?usp=sharing)
 
 ## Features
 
