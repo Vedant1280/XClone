@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637011904244",
+    "project_id": "xclone-3e2f8",
+    "storage_bucket": "xclone-3e2f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637011904244:android:580aaae151d0bd3a8e00a1",
+        "android_client_info": {
+          "package_name": "com.example.xclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaP8FggWmSm_gAl_8y699W4UVgb7kxP8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

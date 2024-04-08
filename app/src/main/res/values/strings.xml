@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Xclone</string>
+    <string name="login">Login</string>
+    <string name="register">Sign up</string>
+    <string name="email_address">email\n</string>
+    <string name="password">passwo</string>
+    <string name="login_to_continue">Welcome to Xclone\n</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="what_s_on_your_mind">What\'s on your mind</string>
+    <string name="upload_tweet">Upload tweet</string>
+    <string name="vedantrmaske_gmail_com">Vedantrmaske@gmail.com</string>
+    <string name="follow">Follow</string>
+    <string name="username">Username</string>
+    <string name="this_is_the_tweet_text">This is the tweet text.</string>
+    <string name="open_gallery" />
+    <string name="sparssy">Sparssy</string>
+</resources>
